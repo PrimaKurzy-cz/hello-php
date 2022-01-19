@@ -8,6 +8,7 @@
             "email": "josef.kyrian@primakurzy.cz"
         }
     ],
+	"license": "MIT",
     "require": {},
 	"autoload": {
         "files": ["src/hello.php"]

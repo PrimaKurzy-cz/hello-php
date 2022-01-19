@@ -1,3 +1,6 @@
 <?php
 
-echo "Hello PHP";
+function sayHello()
+{
+	return "Hello PHP";
+}
